@@ -1,7 +1,7 @@
-# Habit-Tracker-App
-A simple and intuitive habit and goal tracking application built with React.  This app helps users manage their daily habits, track progress towards goals, and view statistics about their performance.
+Habit Tracker App
+A simple and intuitive habit and goal tracking application built with React. This app helps users manage their daily habits, track progress towards goals, and view statistics about their performance.
 
-# Features
+Features
 Habit Management :
 Add, delete, and track daily, weekly, or monthly habits.
 Mark habits as completed and track streaks.
@@ -19,4 +19,3 @@ Dark Mode :
 Toggle between light and dark themes for better usability.
 Persistent Storage :
 Data is saved locally using localStorage, ensuring your progress is preserved between sessions.
-
