@@ -1,0 +1,41 @@
+{
+  "title": "Habit Tracker",
+  "todayHabits": "Today's Habits",
+  "noActiveHabits": "No active habits. Add a new habit!",
+  "completed": "Completed",
+  "total": "Total",
+  "progress": "Progress",
+  "add": "Add",
+  "delete": "Delete",
+  "darkMode": "Toggle Dark Mode",
+  "dashboard": "Dashboard",
+  "habits": "Habits",
+  "goals": "Goals",
+  "stats": "Statistics",
+  "footer": "Habit Tracker © 2025",
+  "manageHabits": "Manage Habits",
+  "habitNamePlaceholder": "Habit name",
+  "frequency": {
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly"
+  },
+  "status": {
+    "completed": "Completed",
+    "notCompleted": "Not Completed"
+  },
+  "manageGoals": "Manage Goals",
+  "goalNamePlaceholder": "Goal name",
+  "targetValuePlaceholder": "Target value",
+  "currentProgressPlaceholder": "Current progress",
+  "deadlinePlaceholder": "Deadline",
+  "addGoal": "Add Goal",
+  "myStats": "My Statistics",
+  "totalHabits": "Total Habits",
+  "completedToday": "Completed Today",
+  "completionRate": "Completion Rate",
+  "totalGoals": "Total Goals",
+  "achieved": "Achieved",
+  "streak": "Streak",
+  "actions": "Actions"
+}

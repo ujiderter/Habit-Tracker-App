@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
 import HabitAPI from '../services/api';
 
 const Dashboard = () => {
   const [habits, setHabits] = useState([]);
   const today = new Date().toISOString().split('T')[0];
+  const { t } = useTranslation();
 
-  // Загрузка данных при монтировании компонента
   useEffect(() => {
     const loadHabits = async () => {
       const habitsData = await HabitAPI.getHabits();
@@ -22,20 +23,20 @@ const Dashboard = () => {
 
   return (
     <div>
-      <h2>Сегодняшние привычки</h2>
+      <h2>{t('todaysHabits')}</h2>
       {habits.length === 0 ? (
-        <p>Нет активных привычек. Добавьте новую привычку!</p>
+        <p>{t('noActiveHabits')}</p>
       ) : (
         <ul>
           {habits.map((habit) => (
             <li key={habit.id}>
-              {habit.name} | Серия: {habit.streak}
+              {habit.name} | {t('streak')}: {habit.streak}
             </li>
           ))}
         </ul>
       )}
       <p>
-        Привычек выполнено: {completedHabits}/{totalHabits} ({completionRate}%)
+        {t('completedHabits')}: {completedHabits}/{totalHabits} ({completionRate}%)
       </p>
     </div>
   );

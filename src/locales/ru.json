@@ -1,0 +1,41 @@
+{
+  "title": "Трекер привычек",
+  "todayHabits": "Сегодняшние привычки",
+  "noActiveHabits": "Нет активных привычек. Добавьте новую привычку!",
+  "completed": "Выполнено",
+  "total": "Всего",
+  "progress": "Прогресс",
+  "add": "Добавить",
+  "delete": "Удалить",
+  "darkMode": "Переключить темный режим",
+  "dashboard": "Дашборд",
+  "habits": "Привычки",
+  "goals": "Цели",
+  "stats": "Статистика",
+  "footer": "Трекер привычек © 2025",
+  "manageHabits": "Управление привычками",
+  "habitNamePlaceholder": "Название привычки",
+  "frequency": {
+    "daily": "Ежедневно",
+    "weekly": "Еженедельно",
+    "monthly": "Ежемесячно"
+  },
+  "status": {
+    "completed": "Выполнено",
+    "notCompleted": "Не выполнено"
+  },
+  "manageGoals": "Управление целями",
+  "goalNamePlaceholder": "Название цели",
+  "targetValuePlaceholder": "Целевое значение",
+  "currentProgressPlaceholder": "Текущий прогресс",
+  "deadlinePlaceholder": "Дедлайн",
+  "addGoal": "Добавить цель",
+  "myStats": "Моя статистика",
+  "totalHabits": "Всего привычек",
+  "completedToday": "Выполнено сегодня",
+  "completionRate": "Процент выполнения",
+  "totalGoals": "Всего целей",
+  "achieved": "Достигнуто",
+  "streak": "Серия",
+  "actions": "Действия"
+}
