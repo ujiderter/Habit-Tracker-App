@@ -15,15 +15,8 @@
   "footer": "Трекер привычек © 2025",
   "manageHabits": "Управление привычками",
   "habitNamePlaceholder": "Название привычки",
-  "frequency": {
-    "daily": "Ежедневно",
-    "weekly": "Еженедельно",
-    "monthly": "Ежемесячно"
-  },
-  "status": {
-    "completed": "Выполнено",
-    "notCompleted": "Не выполнено"
-  },
+  "frequency": "Переодичность",
+  "status": "Статус",
   "manageGoals": "Управление целями",
   "goalNamePlaceholder": "Название цели",
   "targetValuePlaceholder": "Целевое значение",
@@ -37,5 +30,19 @@
   "totalGoals": "Всего целей",
   "achieved": "Достигнуто",
   "streak": "Серия",
-  "actions": "Действия"
+  "actions": "Действия",
+  "stats": "Статистика",
+  "completedHabitsToday": "Завершено привычек сегодня",
+  "maxStreak": "Самая длинная серия",
+  "averageGoalProgress": "Средний прогресс целей",
+  "name": "Название",
+  "deadline": "Предел",
+  "invalidHabitInput": "Пожалуйста, введите корректное название привычки",
+  "habitExists": "Такая привычка уже существует",
+  "editHabitPlaceholder": "Редактировать название привычки",
+  "daily": "ежедневно",
+  "weekly": "еженедельно",
+  "monthly": "ежемесячно",
+  "completed": "Выполнено",
+  "notCompleted": "Не выполнено"
 }

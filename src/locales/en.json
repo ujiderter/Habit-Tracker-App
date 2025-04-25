@@ -15,15 +15,8 @@
   "footer": "Habit Tracker © 2025",
   "manageHabits": "Manage Habits",
   "habitNamePlaceholder": "Habit name",
-  "frequency": {
-    "daily": "Daily",
-    "weekly": "Weekly",
-    "monthly": "Monthly"
-  },
-  "status": {
-    "completed": "Completed",
-    "notCompleted": "Not Completed"
-  },
+  "frequency": "Frequency",
+  "status": "Status",
   "manageGoals": "Manage Goals",
   "goalNamePlaceholder": "Goal name",
   "targetValuePlaceholder": "Target value",
@@ -37,5 +30,19 @@
   "totalGoals": "Total Goals",
   "achieved": "Achieved",
   "streak": "Streak",
-  "actions": "Actions"
+  "actions": "Actions",
+  "stats": "Statistics",
+  "completedHabitsToday": "Completed Habits Today",
+  "maxStreak": "Longest Streak",
+  "averageGoalProgress": "Average Goal Progress",
+  "name": "Name",
+  "deadline": "Deadline",
+  "invalidHabitInput": "Please enter a valid habit name",
+  "habitExists": "This habit already exists",
+  "editHabitPlaceholder": "Edit Habit Name",
+  "daily": "daily",
+  "weekly": "weekly",
+  "monthly": "monthly",
+  "completed": "Completed",
+  "notCompleted": "Not Completed"
 }
