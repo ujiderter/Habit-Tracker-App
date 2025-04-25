@@ -18,4 +18,6 @@ A simple and intuitive habit and goal tracking application built with React + Vi
  - Dark Mode :
    - Toggle between light and dark themes for better usability.
 
+## 🔗 Demo Available
 
+[Live Demo](https://ujiderter.github.io/Habit-Tracker-App/) (uses browser's local storage)
