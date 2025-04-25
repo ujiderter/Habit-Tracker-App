@@ -44,5 +44,9 @@
   "weekly": "еженедельно",
   "monthly": "ежемесячно",
   "completed": "Выполнено",
-  "notCompleted": "Не выполнено"
+  "notCompleted": "Не выполнено",
+  "habitCompletionRate": "Процент выполнения привычки",
+  "habitsLast7Days": "Привычки за неделю",
+  "goalProgress": "Ход выполнения",
+  "inProgress": "В процессе"
 }

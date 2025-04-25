@@ -44,5 +44,9 @@
   "weekly": "weekly",
   "monthly": "monthly",
   "completed": "Completed",
-  "notCompleted": "Not Completed"
+  "notCompleted": "Not Completed", 
+  "habitCompletionRate": "Habit Completion Rate",
+  "habitsLast7Days": "Habits Last 7 Days",
+  "goalProgress": "Goal Progress",
+  "inProgress": "In Progress"
 }
